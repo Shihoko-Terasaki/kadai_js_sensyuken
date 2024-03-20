@@ -5,7 +5,7 @@
 カードゲーム
 
 ## ③DEMO
-（任意）デプロイしている場合はURLを記入
+https://shihoko-terasaki.github.io/kadai_js_sensyuken/)https://shihoko-terasaki.github.io/kadai_js_sensyuken/
 
 ## ④工夫した点・こだわった点
 -

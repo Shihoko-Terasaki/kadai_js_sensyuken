@@ -13,3 +13,22 @@ td.back {
   background-image: url("card.png");
   background-size: 100px 140px;
 }
+
+.gradient { 
+	background:linear-gradient(#66ACFC, #92a0b0 30%, #fff); 
+	height: 300px;
+	border: 1px solid #333;
+}
+
+h2{
+  font-size:130%;
+  color: #66ACFC;
+  background-color: #ffffff;
+}
+
+body{ 
+   margin-right: auto;
+  margin-left : auto;
+  width:700px;
+ }
+
